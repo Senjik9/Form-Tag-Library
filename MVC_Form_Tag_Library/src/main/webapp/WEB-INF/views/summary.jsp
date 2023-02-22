@@ -8,7 +8,7 @@
 </head>
 <body>
   
-    <h3>Details Submitted!!!</h3>
+    <h3>Details Submitted and here they are:</h3>
   
     <table>
         <tr>
